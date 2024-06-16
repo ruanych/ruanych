@@ -3,15 +3,21 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ruanyc@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ruanych-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ruanych/)](https://www.github.com/ruanych/)
 ## Some of my Github Stats
+<!--
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ruanych alt=ruanych /> </p>
 
 
 <a href="https://github.com/ruanych">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruanych&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruanych&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
 </a>
+
 <a href="https://github.com/ruanych">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanych&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanych&layout=compact&hide=javascript,html" />
 </a>
+-->
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ruanych&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs)](https://github.com/ruanych) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanych&layout=compact&hide=javascript,html)](https://github.com/ruanych) 
 
 Languages and Tools:
 
